@@ -1,6 +1,6 @@
 ## 实验环境
 ```
-window10
+Window10
 RTX5060Ti
 VS2019
 CUDA 12.8
